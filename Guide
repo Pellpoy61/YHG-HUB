@@ -4,7 +4,7 @@ pkg install python
 
 wget https://github.com/Pellpoy61/YHG-HUB/releases/download/yhg/YHG.HUB.1.py
 
-python YHG-HUB.1.py
+python YHG.HUB.1.py
 
 ________________________________________________________________
 usage:
