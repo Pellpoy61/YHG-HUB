@@ -1,0 +1,15 @@
+pkg install wget
+
+pkg install python
+
+wget https://github.com/Pellpoy61/YHG-HUB/blob/main/YHG%20HUB.py
+
+python YHG-HUB.py
+
+________________________________________________________________
+usage:
+commands:
+
+tester
+
+passwd
