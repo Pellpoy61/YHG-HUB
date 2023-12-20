@@ -1,6 +1,6 @@
 import time
 import socket
-
+while true
 text = """
 __     ___    _  _____     _    _ _    _ ____  
 \ \   / / |  | |/ ____|   | |  | | |  | |  _ \ 
@@ -82,3 +82,4 @@ if __name__ == "__main__":
     user_password = input("Enter your password: ")
     result = check_password_strength(user_password)
     print(result)
+      break
